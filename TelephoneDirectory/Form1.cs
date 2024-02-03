@@ -102,7 +102,6 @@ namespace TelephoneDirectory
 			MessageBox.Show("Kişi Bilgisi Güncellendi", "Uyarı", MessageBoxButtons.OK, MessageBoxIcon.Warning);
 			listele();
 
-
 		}
 
 		private void BtnSil_Click(object sender, EventArgs e)
